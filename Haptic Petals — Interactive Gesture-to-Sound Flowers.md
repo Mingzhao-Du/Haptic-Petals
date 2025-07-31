@@ -49,6 +49,20 @@ Based on this feedback, we propose the following revisions: (1) Introducing more
 
 These proposed enhancements would significantly enrich the system’s complexity and expressive capacity in terms of interaction logic, emotional resonance, and fine-grained control. Not only would they increase users’ sense of immersion and agency, but they would also enable the system to respond more sensitively to subtle perceptual inputs, fostering a more layered and effectively rich human-machine relationship. Ultimately, these refinements would help realize our core vision of a “digital life form,” transforming the installation from a reactive tool into a sensorial and ecologically attuned presence.
 
+
+https://github.com/user-attachments/assets/d4882bbf-ad3f-4700-b25c-f8b4d4d523d8
+
+
+![1b0303328f55ac1e09a389878264d9e](https://github.com/user-attachments/assets/cde53da8-36f4-43c6-9757-78c38401661f)
+
+![1f1bca55f2c56992f19837fc9f45652](https://github.com/user-attachments/assets/db317e04-9b3d-425c-bb87-5cf22cdd8cd9)
+
+![a56d915f33b6164f3edabbf38a7ac89](https://github.com/user-attachments/assets/c8545392-062b-43f3-8012-86b7edcf4e5c)
+
+![e8999a52a299cd047bae8ac8c95fa6d](https://github.com/user-attachments/assets/cf7669eb-52de-42cb-80e9-cbfac1936264)
+
+![2113972d4ee69d39bc78f5335c0ea17](https://github.com/user-attachments/assets/b875d8a5-ed83-4df6-883a-22e206de97dc)
+
 ## Reflection
 By reviewing the recording of our presentation, we could critically reflect on the strengths and areas for improvement in our delivery. We were pleased to receive positive feedback from peers and tutors regarding the visual aesthetics, model design, point cloud effects, and the poetic quality of our conceptual framing. In particular, the symbolic interplay between gesture-based interaction and the tension between digital and natural forms was widely recognized and appreciated.
 
