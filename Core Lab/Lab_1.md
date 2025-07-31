@@ -1,6 +1,6 @@
 ### Labs
 
-This week, we initially set up a visual framework for a particle diffusion effect, but we have not yet connected the audio files, so the image only shows a regular cycle of diffusion and contraction. We believe that this meets our visual effect requirements, so we will continue to use this visual framework as the main visual solution for our project. Here is a simple demonstration:
+This week, we initially set up a visual framework for a particle diffusion effect, but we have not yet connected the audio files, so the image only shows a regular cycle of diffusion and contraction. We believe that this meets our visual effect requirements, so we will continue to use this visual framework as the main visual solution for our project.
 
 The model used in this demonstration was generated through 3D scanning of a real flower, followed by point cloud processing. Currently, this is the only model we have completed.
 
