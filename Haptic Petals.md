@@ -1,4 +1,4 @@
-# Haptic-Petals
+# Haptic Petals — Interactive Gesture-to-Sound Flowers
 
 <img width="1994" height="1114" alt="Haptic Petals_cover" src="https://github.com/user-attachments/assets/93641d84-c3c1-46c1-b8cf-56adb00e5c05" />
 
