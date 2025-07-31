@@ -57,6 +57,3 @@ At the same time, several constructive comments helped us identify points for re
 In future presentations, we plan to further streamline our script, eliminate non-essential content, and prioritize key messages early on. We also recognize that thorough rehearsal is essential for ensuring clarity and composure. Most importantly, this experience reminded us that presenting a creative-technological project is not merely about showcasing function, but about communicating the conceptual intent, design rationale, and emotional resonance behind it.
 
 <img width="1144" height="799" alt="Feedback" src="https://github.com/user-attachments/assets/737c84c4-04c1-45b2-a8d6-e1f8aab20d2e" />
-
-## Key Lab Contributions
-
