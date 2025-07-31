@@ -10,13 +10,6 @@ A combination of 'Noise' + 'Threshold' + 'Multiply' + 'Over' is used to generate
 
 ---
 
-### Reading & Reflections
-
-*Jacquelyn Ford Morie – Performing in (Virtual) Spaces*: This article focuses on the themes of embodiment and being in virtual spaces. It prompted me to realise that our project, Haptic Petals, should not only allow the audience to “interact,” but also actively evoke their awareness of presence through the interactive process, so that the body is not merely a control interface, but an integral component of the media experience. Within the fragmentation and reconstruction of the flower, the viewer’s gestures should function not simply as triggers but as embodied expressions of emotion. Moreover, participants’ behavioural trajectories ought to be visually acknowledged or “remembered” by the system, creating a sense of being sensed in return. This reflection also led me to consider how we might structure new perceptual relationships through the interplay or tension between visual and auditory rhythms, allowing participants not only to observe transformation but also to feel the synchronisation between natural cycles and internal affective states.
-
-*Kilteni, Groten & Slater – The Sense of Embodiment in Virtual Reality*: This article offers a highly insightful theoretical framework by deconstructing the “sense of embodiment” into three distinct components: self-location, agency, and body ownership. The authors argue that these dimensions can be independently induced and measured, each governed by distinct generative mechanisms, thereby challenging the conventional notion of immersion as a monolithic illusion. Particularly noteworthy is their proposition that embodiment should be understood as a continuous variable rather than a binary state. This reframing not only allows for a more precise interpretation of experiential variation in VR but also provides robust theoretical and methodological foundations for the design of immersive systems. Overall, the article demonstrates a high degree of rigour both in theoretical articulation and practical applicability, offering a strong foundation for future research in embodied media and VR development.
-
----
 
 ### Peer Support
 
