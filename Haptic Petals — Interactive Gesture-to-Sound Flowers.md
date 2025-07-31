@@ -2,6 +2,8 @@
 
 <img width="1994" height="1114" alt="Haptic Petals_cover" src="https://github.com/user-attachments/assets/93641d84-c3c1-46c1-b8cf-56adb00e5c05" />
 
+---
+
 ## Project Description
 Haptic Petals is an interactive installation that explores the relationship between humans, technology, and the environment. It imagines a near future where natural forms—such as flowers—are no longer purely organic, but digitally reconstructed and emotionally reactive. The project poses a central question: how do we coexist with hybrid ecologies shaped by nature and code?
 
@@ -9,11 +11,17 @@ Rather than representing flowers as static symbols of nature, we treated them as
 
 What we learned through this project is that emotional expression and environmental awareness can be encoded into interaction design. Technologies are not only tools for control, but also mediums for rethinking care, rhythm, and ecological coexistence. Haptic Petals invites users to reflect on their gestures—not just as inputs, but as ethical encounters with new forms of digital life.
 
+---
+
 ## Technical Description
 This project was developed using TouchDesigner as the core visual programming platform, combined with Leap Motion for gesture recognition. The system includes two main components: audio-driven environmental interaction and gesture-based visual control. A 3D flower model was imported and processed into a point cloud representation. When no hand is detected, the model autonomously rotates based on noise patterns synced to the rhythm of ambient music. Once a gesture is recognized, control shifts from music to the user’s hand, allowing real-time manipulation of the model’s structure and behaviour, emphasizing a dynamic relationship between sensory input and visual response.
 
+---
+
 ## Individual Contribution
 I was responsible for building and integrating the 3D flower model. This included creating the structure using modelling tools, optimizing the topology for real-time rendering in TouchDesigner, and importing it into the system with adjusted materials, coordinates, and scale. I also led final debugging and user testing, focusing on Leap Motion gesture accuracy, audio-visual synchronization, and overall system stability. My work ensured a smooth and responsive interaction experience.
+
+---
 
 ## Project Images
 
@@ -27,6 +35,8 @@ I was responsible for building and integrating the 3D flower model. This include
 
 ![7](https://github.com/user-attachments/assets/38b65105-8258-4de4-b359-759e6f5af47d)
 
+---
+
 ## Project Demo
 Link to a demo video: https://mega.nz/file/DiowAbLa#I00CQr59C9aJkCXB6Qli9LqqIgc15w6tj6GhijIIK_8
 
@@ -36,9 +46,13 @@ The video highlights the flower model’s dual behaviour: in passive mode, it ro
 
 The visuals demonstrate how the system maintains a dynamic feedback loop between the user and the digital environment, reinforcing the project’s core theme: how we perceive, disrupt, and coexist with emerging hybrid ecologies shaped by both nature and technology.
 
+---
+
 ## Github Link to all project files and assets 
 
 https://github.com/Mingzhao-Du/Haptic-Petals/tree/main/Project%20Files
+
+---
 
 ## User Testing & Proposed Revisions
 To assess the interaction quality and user experience of our project, we conducted simulated testing with five participants from varied creative and technical backgrounds. Feedback was evaluated using standard usability principles relevant to interactive installations.
@@ -63,6 +77,8 @@ https://github.com/user-attachments/assets/d4882bbf-ad3f-4700-b25c-f8b4d4d523d8
 
 ![2113972d4ee69d39bc78f5335c0ea17](https://github.com/user-attachments/assets/b875d8a5-ed83-4df6-883a-22e206de97dc)
 
+---
+
 ## Reflection
 By reviewing the recording of our presentation, we could critically reflect on the strengths and areas for improvement in our delivery. We were pleased to receive positive feedback from peers and tutors regarding the visual aesthetics, model design, point cloud effects, and the poetic quality of our conceptual framing. In particular, the symbolic interplay between gesture-based interaction and the tension between digital and natural forms was widely recognized and appreciated.
 
@@ -71,3 +87,5 @@ At the same time, several constructive comments helped us identify points for re
 In future presentations, we plan to further streamline our script, eliminate non-essential content, and prioritize key messages early on. We also recognize that thorough rehearsal is essential for ensuring clarity and composure. Most importantly, this experience reminded us that presenting a creative-technological project is not merely about showcasing function, but about communicating the conceptual intent, design rationale, and emotional resonance behind it.
 
 <img width="1144" height="799" alt="Feedback" src="https://github.com/user-attachments/assets/737c84c4-04c1-45b2-a8d6-e1f8aab20d2e" />
+
+---
