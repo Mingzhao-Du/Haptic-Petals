@@ -10,16 +10,6 @@ In preparation for next week's final presentation, we also created a set of demo
 
 <img width="1918" height="826" alt="ee7242c34235417a4e5e8257d74ebb86" src="https://github.com/user-attachments/assets/e8055e06-b295-4e08-bbff-f204109d1cb8" />
 
-### Reading & Reflections
-
-After studying Research Methods: Sharing Research, I came to understand that “sharing” is not merely about presenting outcomes, but constitutes an integral part of the research process itself. Unlike traditional linear reporting, sharing is an open and dialogic practice that can generate new insights and foster meaningful connections.
-
-The distinction made in the course materials between “recording” and “sharing” was particularly thought-provoking: while recording is inward-facing and reflective, sharing is outward-facing and inherently public. This distinction prompted me to reflect on how I might present the progress of my work more transparently and authentically throughout the project, rather than waiting until completion.
-
-The concept of the “digital flower” was especially inspiring to me—it suggested that research need not be a static, one-time product, but rather an evolving and open-ended knowledge ecology. Moving forward, I hope to experiment with forms such as blogs, process documentation, or live demonstrations as integral components of my research, rather than as supplementary materials.
-
-Through this approach, I believe I can better reflect on my practices and invite others into the process, thereby extending the significance and impact of the work.
-
 ---
 
 ### Peer Support
