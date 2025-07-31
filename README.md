@@ -38,6 +38,8 @@ The visuals demonstrate how the system maintains a dynamic feedback loop between
 
 ## Github Link to all project files and assets 
 
+https://github.com/Mingzhao-Du/Haptic-Petals/tree/main/Project%20Files
+
 ## User Testing & Proposed Revisions
 To assess the interaction quality and user experience of our project, we conducted simulated testing with five participants from varied creative and technical backgrounds. Feedback was evaluated using standard usability principles relevant to interactive installations.
 
